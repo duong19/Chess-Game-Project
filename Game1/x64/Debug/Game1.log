@@ -1,0 +1,54 @@
+﻿  Game1.cpp
+D:\source\repos\Game1\Game1\Game1.cpp(40,72): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\source\repos\Game1\Game1\Game1.cpp(52,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\source\repos\Game1\Game1\Game1.cpp(97,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\source\repos\Game1\Game1\Game1.cpp(97,23): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\source\repos\Game1\Game1\Game1.cpp(129,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\source\repos\Game1\Game1\Game1.cpp(129,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\source\repos\Game1\Game1\Game1.cpp(180,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\source\repos\Game1\Game1\Game1.cpp(180,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\source\repos\Game1\Game1\Game1.cpp(192,79): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\source\repos\Game1\Game1\Game1.cpp(192,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\source\repos\Game1\Game1\Game1.cpp(193,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\source\repos\Game1\Game1\Game1.cpp(193,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Game1.vcxproj -> D:\source\repos\Game1\x64\Debug\Game1.exe
